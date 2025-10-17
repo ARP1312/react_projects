@@ -1,0 +1,26 @@
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+input{
+    width: 100%;
+}
+
+
+.item-container{
+    text-align: left;
+}
+
+
+
+.my-row{
+    margin: 10px 5px;
+}
+
+
+.my-button{
+ width: 80px;
+}
